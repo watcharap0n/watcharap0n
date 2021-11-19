@@ -26,7 +26,7 @@ URL : [PORTFOLIO](https://portfolio-watcharapon.herokuapp.com/)
 
 `Flow Face Recognition`
 
-  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/new1.png?raw=true "Title")
+  ![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/assets/images/new1.png?raw=true "Title")
 
 `Face Recognition Preview DLIB`
   ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_preview.png?raw=true "Title")

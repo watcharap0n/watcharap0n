@@ -4,12 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-watcharap0n/watcharap0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-
-
 `API`
   ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/api.png?raw=true "Title")
 
@@ -37,8 +31,3 @@ You can click the Preview link to take a look at your changes.
 **Preview CustomForm LINELIFF**
 
 ![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/line.png?raw=true "Title")
-
-**Structure Coding**
-
-
---->

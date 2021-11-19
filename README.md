@@ -24,8 +24,11 @@ URL : [PORTFOLIO](https://portfolio-watcharapon.herokuapp.com/)
 `API`
   ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/api.png?raw=true "Title")
 
+`Flow Face Recognition`
 
-`Face Detected Preview DLIB`
+  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/new1.png?raw=true "Title")
+
+`Face Recognition Preview DLIB`
   ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_preview.png?raw=true "Title")
   
 `Face Prediction DLIB`
@@ -39,6 +42,10 @@ URL : [PORTFOLIO](https://portfolio-watcharapon.herokuapp.com/)
 **Preview OCR**
 
 ![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/assets/images/ocr.png?raw=true "Title")
+
+**Flow CRM**
+
+![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/assets/images/new6.png?raw=true "Title")
 
 **Preview Dashboard**
 

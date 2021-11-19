@@ -38,7 +38,7 @@ URL : [PORTFOLIO](https://portfolio-watcharapon.herokuapp.com/)
 
 **Preview OCR**
 
-https://github.com/watcharap0n/portfolio/blob/main/client/static/assets/images/ocr.png?raw=true "Title")
+![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/static/assets/images/ocr.png?raw=true "Title")
 
 **Preview Dashboard**
 

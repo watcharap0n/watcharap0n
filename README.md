@@ -8,7 +8,7 @@
 
 # About ME - Portfolio 
 ****
-URL : `https://portfolio-watcharapon.herokuapp.com`
+URL : [PORTFOLIO](https://github.com/watcharap0n/m-business/files/6683094/CHATBOT_myself.pdf)
 
 ****
 

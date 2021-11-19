@@ -36,6 +36,10 @@ URL : [PORTFOLIO](https://portfolio-watcharapon.herokuapp.com/)
 
 ![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/api.png?raw=true "Title")
 
+**Preview OCR**
+
+https://github.com/watcharap0n/portfolio/blob/main/client/static/assets/images/ocr.png?raw=true "Title")
+
 **Preview Dashboard**
 
 ![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/preview_dashboard.png?raw=true "Title")

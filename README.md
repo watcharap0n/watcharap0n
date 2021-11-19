@@ -4,15 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-`API`
-  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/api.png?raw=true "Title")
 
-
-`Face Detected Preview DLIB`
-  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_preview.png?raw=true "Title")
-  
-`Face Prediction DLIB`
-    ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_predict.png?raw=true "Title")
 
 # About ME - Portfolio 
 ****
@@ -23,6 +15,17 @@ URL : `https://portfolio-watcharapon.herokuapp.com`
 **Home**
 
 ![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/static/github/port1.png?raw=true "Title")
+
+
+`API`
+  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/api.png?raw=true "Title")
+
+
+`Face Detected Preview DLIB`
+  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_preview.png?raw=true "Title")
+  
+`Face Prediction DLIB`
+    ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_predict.png?raw=true "Title")
 
 
 **Preview APIs**

@@ -2,13 +2,12 @@
 
 
 
-# About ME - Portfolio 
+**Hi my name is Kane**
 
-- 👋 Hi, I’m watcharapon weeraborirak Github,Gitlab, Bitbucket: @watcharap0n
-- 👀 I’m interested in Python Data Science, Machine Learning, Vision Machine
-- 🌱 I’m currently learning Python Data science, Full Stack, DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I'm a AI Machine Leaning & FullStack developer & IoT Engineer from Bangkok Thailand. I hold degree of Computer Engineer (IoT) Place of study: Bachelor's degree, Southeast Asia University (SAU) Education: Bachelor's degree 4 years
+- I’m interested in Python Data Science, Machine Learning, Vision Machine
+- I’m currently learning Python Data science, Full Stack, DevOps
+- source control -> gitlab, bitbucket, github: @watcharap0n
 
 ****
 

@@ -42,7 +42,35 @@ Works Reference GITHUB: watcharap0n, Portfolio: portfolio
 
 ****
 
+**Training history/Achievements**
 
+****
+
+- August 2019 to March 2020**
+
+National Science and Technology Agency,
+Great Commission of the 19th Information Technology Contest of Thailand,
+As a project developer who passed the final,
+Competitive software development of the 22,
+IoT Automated Brine Detection and Control Project.
+
+- February 2020 to February 2020**
+
+National Research Office Inventor 's Day 2020,
+Participated in presenting research results, inventions and innovations, Automatic monitoring and control system IoT.
+
+- March 2020 to March 2020**
+
+Institute President of Southeast Asia University,
+SAU English Test Course.
+
+- March 2019 to March 2019**
+
+Institute of National Electronics and Computer Technology
+Center (NECTEC),
+Of course Camp electronics technology IoT (there are also two other diplomas).
+
+****
 
 URL : [PORTFOLIO](https://portfolio-watcharapon.herokuapp.com/)
 

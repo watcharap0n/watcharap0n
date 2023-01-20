@@ -26,7 +26,7 @@ Advisor
 
 ****
 
-***Work History:*** Between August 2020 to present
+***Work History:*** Between August 2020 to August 2022
 
 **Position**: AI Developer (Research & Developer)
 
@@ -39,6 +39,20 @@ Advisor
 **Projects**: System CRM (CHATBOT) collect feedback, customers from platform (Facebook, LINE) and potential customers analyzed (KNN) spam detection (Naïve Bayes), Face recognition system RPA system
 to reduce the process of marketing work, system for requesting quotations (PO) via LINE, which has a microservice architecture.
 Works Reference GITHUB: watcharap0n, Portfolio: portfolio
+
+****
+
+***Work History:*** Between August 2022 to Present
+
+**Position**: Full Stack Developer
+
+**Company**: THAICOM PUBLIC COMPANY LIMITED
+
+**Company** 349 SJ Infinite 1 Business Complex, 28th Floor Vibhavadi Rangsit Rd, Chatuchak, Chatuchak, Bangkok 10900
+
+**Job Description**: Digital signature as a service
+
+**Projects**: Digital signature we provide b2b as a services such as both E-Timestamp and E-Signature, My responsibilities are develop and design backend, frontend and vulnerability service according to best practice
 
 ****
 
@@ -71,6 +85,9 @@ Center (NECTEC),
 Of course Camp electronics technology IoT (there are also two other diplomas).
 
 ****
+
+**Software development methodologies** : I'm strong programing langauge base python both web framework or machine framework according to pattern OOP, MVC, PEP-8 and javascript framework vue, nuxt and Deployment design service with nginx k8s, docker container on AWS EC2, google cloud firebase
+
 
 **My Contact**
 

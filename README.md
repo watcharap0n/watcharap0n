@@ -80,30 +80,17 @@ Of course Camp electronics technology IoT (there are also two other diplomas).
 
 **Home**
 
-![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/static/github/port1.png?raw=true "Title")
-
-
-`API`
-  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/api.png?raw=true "Title")
-
-`Flow Face Recognition`
-
-  ![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/assets/images/new1.png?raw=true "Title")
-
 `Face Recognition Preview DLIB`
   ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_preview.png?raw=true "Title")
   
 `Face Prediction DLIB`
-    ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_predict.png?raw=true "Title")
+  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_predict.png?raw=true "Title")
 
 
 **Preview APIs**
 
 ![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/api.png?raw=true "Title")
 
-**Preview OCR**
-
-![Alt text](https://github.com/watcharap0n/portfolio/blob/main/client/assets/images/ocr.png?raw=true "Title")
 
 **Test Security Observatory**
 
@@ -112,10 +99,6 @@ Of course Camp electronics technology IoT (there are also two other diplomas).
 **Preview Dashboard**
 
 ![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/preview_dashboard.png?raw=true "Title")
-
-**Preview Intents**
-
-![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/bot2.png?raw=true "Title")
 
 **Preview CustomForm LINELIFF**
 

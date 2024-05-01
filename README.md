@@ -112,11 +112,3 @@ Of course Camp electronics technology IoT (there are also two other diplomas).
 **Test Security Observatory**
 
 ![Alt text](https://github.com/watcharap0n/test-security-observatory-fastapi/blob/hub/signature_middleware/server/static/vulner-test.png?raw=true "Title")
-
-**Preview Dashboard**
-
-![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/preview_dashboard.png?raw=true "Title")
-
-**Preview CustomForm LINELIFF**
-
-![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/line.png?raw=true "Title")

@@ -1,114 +1,93 @@
+# 👋 Hi, I'm Watcharapon Weeraborirak (Kane)
 
+🚀 **AI Engineer | Data Engineer | Full-Stack Developer**  
+📍 Bangkok, Thailand  
+🌐 [watcharapon.dev](https://watcharapon.dev) | [LinkedIn](https://www.linkedin.com/in/watcharapon-weeraborirak) | ✉️ wera.watcharapon@gmail.com  
 
+---
 
+### 🧠 About Me
 
-**Hi my name is Kane**
+I’m an **AI Engineer** with a deep focus on **geospatial AI, LLM deployment**, and **cloud-native architecture**.  
+At **Thaicom**, I design and implement large-scale, event-driven systems that turn complex environmental data into actionable insights — from carbon assessment to disaster prediction.  
 
-- I'm a AI Machine Leaning & FullStack developer & IoT Engineer from Bangkok Thailand. I hold degree of Computer Engineer (IoT) Place of study: Bachelor's degree, Southeast Asia University (SAU) Education: Bachelor's degree 4 years
-- I’m interested in Python Data Science, Machine Learning, Vision Machine and Restful API
-- I’m currently learning Python Data science, Full Stack, DevOps
-- source control -> gitlab, bitbucket, github: @watcharap0n
+I’m passionate about **building intelligent, scalable solutions** that connect **AI, data, and the cloud** together into powerful systems.
 
-**Projects / Portfolios / Honors / References**
+---
 
-****
-The development project before the completion has been done IoT Automated Brine Monitoring and Control
+### 🏢 Professional Experience
 
-- Competition project of the exhibition contest information technology of the 19 (The NSC) have a certificate through the finals.
-- BITEC contest, National Research Office participated in research Innovative invention received a certificate
-- Details can be found at https://iot.sau.ac.th/project 2020
-Referral
-Advisor
+#### **AI Engineer / Data Engineer — Thaicom Public Company Limited**  
+*Jul 2022 → Present | Bangkok, Thailand*  
+- Designed **asynchronous geospatial AI pipelines** using AWS Lambda, SageMaker, and S3.  
+- Built **serverless ELT pipelines** with AWS Glue, PostgreSQL (PostGIS), and S3 for automated data ingestion.  
+- Deployed **AI/ML and LLM models** for national-scale disaster prediction and environmental analytics.  
+- Integrated **Generative AI** (OpenAI, AWS Bedrock, Anthropic) via **LibreChat, MCP, and LangChain** for RAG-based workflows.  
+- Automated infrastructure using **AWS CDK / CloudFormation** and integrated **Microsoft Entra ID** for secure enterprise access.  
 
-***Ref***
-- Prof. Dr. Nut Otanasup Email: nuto@sau.ac.th 
-- Asst. Verapong Kanjanakul Tel: 089-893-4146
+🧩 *Projects:*  
+- **Carbon Watch** – An AI-driven geospatial analysis platform for carbon storage and forest monitoring.  
+- **AI4ALL Thaicom** – LibreChat-based GenAI ecosystem for internal AI access, integrated with Microsoft Entra ID.  
 
-****
+#### **AI Developer — Mango Consultant Co., Ltd.**  
+*Jul 2020 → Jul 2022 | Bangkok, Thailand*  
+- Developed a **CRM chatbot platform** for analyzing feedback from Facebook and LINE.  
+- Implemented **KNN and Naive Bayes models** for segmentation and spam detection.  
+- Built **RPA systems** for marketing automation and a **LINE Developer system** for quotation requests.  
+- Collaborated on a **Face Recognition System** using CMake, DLIB, and microservices.  
 
-***Work History:*** Between August 2020 to August 2022
+---
 
-**Position**: AI Developer (Research & Developer)
+### 💻 Freelance Projects
 
-**Company**: Mango Consultant Co.,Ltd
+- **[EasyStay Asia](https://www.easystay.asia)** — Hotel booking platform with admin dashboard, payment gateway, reporting, and calendar management.  
+- **[Pasa Education](https://www.pasaeducation.com)** — E-learning platform with online courses, workshops, and enrollment management.  
+- **Asynchronous Face Recognition API** — Built with FastAPI, dlib, and Redis for background training and real-time prediction.
 
-**Company** address: 555 Rasa Tower 1, Unit 2304-1, 23rd Floor, Phaholyothin Rd, Chatuchak, Chatuchak, Bangkok 10900
+---
 
-**Job Description**: ERP Software and project planning system
+### 🧩 Technical Stack
 
-**Projects**: System CRM (CHATBOT) collect feedback, customers from platform (Facebook, LINE) and potential customers analyzed (KNN) spam detection (Naïve Bayes), Face recognition system RPA system
-to reduce the process of marketing work, system for requesting quotations (PO) via LINE, which has a microservice architecture.
-Works Reference GITHUB: watcharap0n, Portfolio: portfolio
+**Languages:** Python, JavaScript (Nuxt.js / React / Next.js), SQL  
+**Cloud & DevOps:** AWS (Lambda, SageMaker, Glue, S3, RDS, CloudFront, CDK), Docker, CI/CD  
+**Databases:** PostgreSQL (PostGIS), MongoDB  
+**AI/ML:** OpenAI, AWS Bedrock, Anthropic, LangChain, scikit-learn, PyTorch  
+**Architecture:** Event-driven systems, Microservices, Serverless design  
 
-****
+---
 
-***Work History:*** Between August 2022 to Present
+### 🏅 Certifications & Achievements
 
-**Position**: Full Stack Developer
+- **AWS Certified AI Practitioner (Early Adopter)**  
+- **AWS Certified Cloud Practitioner**  
+- **AWS Security Engineering on AWS**  
+- **AWS Developing on AWS**  
+- **AWS Technical Essentials**  
+- **BSI Training Academy – Advanced AI/ML Courses**  
+- National Research Office Inventor’s Day 2020 — *Research Presenter (IoT Brine Monitoring System)*  
 
-**Company**: THAICOM PUBLIC COMPANY LIMITED
+---
 
-**Company** 349 SJ Infinite 1 Business Complex, 28th Floor Vibhavadi Rangsit Rd, Chatuchak, Chatuchak, Bangkok 10900
+### 🎓 Education
 
-**Job Description**: Digital signature as a service
+**Bachelor of Computer Engineering (IoT Major)**  
+*Southeast Asia University (SAU)*  
+GPA: 3.21  
 
-**Projects**: Digital signature we provide b2b as a services such as both E-Timestamp and E-Signature, My responsibilities are develop and design backend, frontend and vulnerability service according to best practice
+---
 
-****
+### 💬 Languages
 
-**Training history/Achievements**
+- **Thai:** Native  
+- **English:** Intermediate (Voxy Proficiency Score: 700)  
 
-****
+---
 
-- August 2019 to March 2020**
+### ⚙️ GitHub Stats
 
-National Science and Technology Agency,
-Great Commission of the 19th Information Technology Contest of Thailand,
-As a project developer who passed the final,
-Competitive software development of the 22,
-IoT Automated Brine Detection and Control Project.
+![Kane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=watcharap0n&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watcharap0n&layout=compact&theme=tokyonight)
 
-- February 2020 to February 2020**
+---
 
-National Research Office Inventor 's Day 2020,
-Participated in presenting research results, inventions and innovations, Automatic monitoring and control system IoT.
-
-- March 2020 to March 2020**
-
-Institute President of Southeast Asia University,
-SAU English Test Course.
-
-- March 2019 to March 2019**
-
-Institute of National Electronics and Computer Technology
-Center (NECTEC),
-Of course Camp electronics technology IoT (there are also two other diplomas).
-
-****
-
-**Software development methodologies** : I'm strong programing langauge base python both web framework or machine framework according to pattern OOP, MVC, PEP-8 and javascript framework vue, nuxt and Deployment design service with nginx k8s, docker container on AWS EC2, google cloud firebase
-
-
-**My Contact**
-
-- [PORTFOLIO](https://watcharapon.dev)
-
-- [LinkedIn](https://www.linkedin.com/in/watcharapon-weeraborirak)
-
-**Home**
-
-`Face Recognition Preview DLIB`
-  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_preview.png?raw=true "Title")
-  
-`Face Prediction DLIB`
-  ![Alt text](https://github.com/watcharap0n/dlib-dc/blob/main/static/github/face_predict.png?raw=true "Title")
-
-
-**Preview APIs**
-
-![Alt text](https://github.com/watcharap0n/ChatbotMultiple-Flask/blob/main/static/github/api.png?raw=true "Title")
-
-
-**Test Security Observatory**
-
-![Alt text](https://github.com/watcharap0n/test-security-observatory-fastapi/blob/hub/signature_middleware/server/static/vulner-test.png?raw=true "Title")
+> “Turning complex data into meaningful intelligence through AI, code, and cloud.”
